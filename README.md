@@ -4,6 +4,12 @@ I don't hand off a mockup and walk away. I design the thing and then build it un
 
 The games below came out of exactly that — each one designed and shipped end to end.
 
+## Client work
+
+| Project | Live | Code |
+|---|---|---|
+| 🌿 **Magia Prostranstva** — site for a landscape architecture studio: full-screen hero where the photo splits into flipping blades, case studies as content collections, leads straight to Telegram | [magiaprostranstva.com](https://magiaprostranstva.com) | private |
+
 ## Games — playable right now
 
 All of them in one place: **[johninwork.github.io](https://johninwork.github.io)**
