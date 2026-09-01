@@ -23,6 +23,8 @@ All of them in one place: **[johninwork.github.io](https://johninwork.github.io)
 | 🌍 | **Browser MMORPG** — online world with its own in-browser map editor | needs a server | [code](https://github.com/JohnInWork/browser-mmorpg) |
 | 🏰 | **Dungeon Crawler** — first-person maze rendered by raycasting, built in Godot | needs a web build | [code](https://github.com/JohnInWork/godot-dungeon-crawler) |
 
-## What I work with
+## Built with
 
 Astro · Three.js · Canvas · Node.js · Socket.IO · Matter.js · Godot · Figma
+
+That's the stack the projects above run on. I pick it, design the thing and drive it to production — AI writes most of the code, I read it, test it and own what ships.
