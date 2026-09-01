@@ -21,7 +21,7 @@ All of them in one place: **[johninwork.github.io](https://johninwork.github.io)
 | 🔫 | **SlowmoFPS** — time moves only when you move | [play](https://johninwork.github.io/slowmo-fps/) | [code](https://github.com/JohnInWork/slowmo-fps) |
 | 🗺️ | **Hex Quest** — explore a hex map hidden under fog, one click at a time | [play](https://johninwork.github.io/hex-quest/) | [code](https://github.com/JohnInWork/hex-quest) |
 | 🌍 | **Browser MMORPG** — online world with its own in-browser map editor | needs a server | [code](https://github.com/JohnInWork/browser-mmorpg) |
-| 🏰 | **Dungeon Crawler** — first-person maze rendered by raycasting, built in Godot | needs a web build | [code](https://github.com/JohnInWork/godot-dungeon-crawler) |
+| 🏰 | **Dungeon Crawler** — first-person maze rendered by raycasting, built in Godot | screenshots only | [project page](https://github.com/JohnInWork/godot-dungeon-crawler) |
 
 ## Built with
 
