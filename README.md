@@ -1,6 +1,6 @@
 ### John — design engineer
 
-I don't hand off a mockup and walk away. I design the thing and then build it until it runs in a browser: AI is the tool that carries the design into working code, so a prototype takes days instead of a sprint.
+I don't hand off a mockup and walk away. I design the thing and then build it until it actually runs — in a browser, on a phone, on a server, wherever it belongs. AI is the tool that carries the design into working code, so a prototype takes days instead of a sprint.
 
 The games below came out of exactly that — each one designed and shipped end to end.
 
