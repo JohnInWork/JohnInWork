@@ -1,4 +1,4 @@
-### Hi, I'm John
+### John
 
 Designer who takes an idea all the way to a working product — from the mockup to code running in the browser.
 
