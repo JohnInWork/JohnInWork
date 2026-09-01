@@ -1,6 +1,8 @@
-### John
+### John — design engineer
 
-Designer who takes an idea all the way to a working product — from the mockup to code running in the browser.
+I don't hand off a mockup and walk away. I design the thing and then build it until it runs in a browser: AI is the tool that carries the design into working code, so a prototype takes days instead of a sprint.
+
+The games below came out of exactly that — each one designed and shipped end to end.
 
 ## Games — playable right now
 
