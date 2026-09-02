@@ -2,7 +2,7 @@
 
 I don't hand off a mockup and walk away. I design the thing and then build it until it actually runs — in a browser, on a phone, on a server, wherever it belongs. AI is the tool that carries the design into working code, so a prototype takes days instead of a sprint.
 
-The games below came out of exactly that — each one designed and shipped end to end.
+Everything below in one place — **[johninwork.github.io](https://johninwork.github.io)**: a client site running in production and seven games, five of them playable in the browser.
 
 ## Client work
 
@@ -11,8 +11,6 @@ The games below came out of exactly that — each one designed and shipped end t
 | 🌿 **Magia Prostranstva** — site for a landscape architecture studio: full-screen hero where the photo splits into flipping blades, case studies as content collections, leads straight to Telegram | [magiaprostranstva.com](https://magiaprostranstva.com) | private |
 
 ## Games — playable right now
-
-All of them in one place: **[johninwork.github.io](https://johninwork.github.io)**
 
 | | Game | Play | Code |
 |---|---|---|---|
